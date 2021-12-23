@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/sKo-dev/brainpain/main/source.lua'),true))()
