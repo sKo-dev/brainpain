@@ -18,7 +18,7 @@ by     ,.·'´,    ,'\         ,.·,       :´¨   ;\         /  ·'´,.-·-.,  
    \::::\:;:·´           '\::\     `·'\::\;:·'´'             ¯                  
      '`*'´‘                 ¯          ¯'                   ‘                  
 description:
-Works only in popular games, like KAT (if script doesnt works, check F9 or logs)
+Works only in popular games, like KAT (if script doesnt works, check logs [F9])
  - Game-detect
  - No ui
 ]]-- BrainPain
@@ -55,7 +55,7 @@ elseif game.PlaceId == 12109643 then
     rconsoleprint("@@WHITE@@")
     rconsoleprint(" founded")
 elseif game.PlaceId == 292439477 then
-    loadstring(game:HttpGet("https://projectevo.xyz/script/loader.lua"))()
+    loadstring(game:HttpGet("https://ducksite.xyz/ceri/main.lua"))()
     rconsoleprint("@@WHITE@@")
     notifLib.prompt('BrainPain', 'Executed!', 5)
     rconsolename("BRAIN PAIN - Phantom Forces")
