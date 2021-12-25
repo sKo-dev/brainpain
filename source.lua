@@ -216,9 +216,9 @@ elseif game.PlaceId == 286090429 then
     rconsoleprint("@@WHITE@@")
     rconsoleprint(" founded")
 else
-    print("Use brainpain in: KAT, Phantom Forces, Jailbreak, Bad Business, The Wild West, Be dead forever simulator, Strucid, Realistic Hood Runker 51, Counter Blox and Arsenal")
+    print("Use brainpain in: KAT, Phantom Forces, Jailbreak, Bad Business, The Wild West, Be dead forever simulator, Strucid, Realistic Hood, Runker 51, Counter Blox and Arsenal")
     notifLib.prompt('BrainPain', 'No games founded, check console [F9]', 5)
     rconsolename("BRAIN PAIN - NoGamesFounded")
-    rconsoleprint("\n\nNo Games Founded\n\nUse brainpain in: KAT, Phantom Forces, Jailbreak, Bad Business, The Wild West, Be dead forever simulator, Strucid, Realistic Hood Runker 51, Counter Blox and Arsenal")
+    rconsoleprint("\n\nNo Games Founded\n\nUse brainpain in: KAT, Phantom Forces, Jailbreak, Bad Business, The Wild West, Be dead forever simulator, Strucid, Realistic Hood, Runker 51, Counter Blox and Arsenal")
     rconsoleprint("@@WHITE@@")
 end
