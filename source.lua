@@ -47,6 +47,7 @@ if game.PlaceId == 621129760 then
     rconsoleprint("@@WHITE@@")
     rconsoleprint(" founded")
 elseif game.PlaceId == 12109643 then 
+    rconsoleprint("@@WHITE@@")
     notifLib.prompt('BrainPain', 'Hi', 5)
     rconsolename("BRAIN PAIN - Fencing")
     rconsoleprint("\nGame")
